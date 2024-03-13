@@ -46,5 +46,21 @@
   {
     "title": "C#",
     "imageSrc": "skills/csharp.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "TypeScript",
+    "imageSrc": "skills/typescript.png"
+  },
+  {
+    "title": "Github",
+    "imageSrc": "skills/github2.png"
+  },
+  {
+    "title": "ASP.NET",
+    "imageSrc": "skills/asp5.png"
   }
 ]
