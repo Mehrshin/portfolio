@@ -1,0 +1,33 @@
+[
+    {
+      "title": "Sarashpazbashi",
+      "imageSrc": "projects/sarashpazbashi.png",
+      "description": "My culinary haven where flavors come to life. A cooking website made by Wordpress.",
+      "skills": ["HTML", "CSS", "WordPress"],
+      "demo": "https://www.sarashpazbashi.com"
+    },
+    {
+      "title": "Movie API",
+      "imageSrc": "projects/movie-project.png",
+      "description": "A React project that uses an external API to show the movies in different categories.",
+      "skills": ["React", "TypeScript", "CSS"],
+      "demo": "https://movie-api-project-shirin.vercel.app/",
+      "source": "https://github.com/Mehrshin/Movie-API-Project-React"
+    },
+    {
+      "title": "Hotel Reservation System",
+      "imageSrc": "projects/Hotel-Reservation-System.png",
+      "description": "A web-based application for a small hotel chain that allows potential customers to reserve rooms.",
+      "skills": ["PHP", "HTML", "JavaScript", "CSS"],
+      "demo": "https://hotel-reservation-system-seven.vercel.app/",
+      "source": "https://github.com/Mehrshin/Hotel-Reservation-System"
+    },
+    {
+      "title": "Online Shopping Website",
+      "imageSrc": "projects/legarderobe.png",
+      "description": "Working on enhancing and expanding the project. Improvements are planned.",
+      "skills": ["HTML", "JavaScript", "CSS", "Bootstrap"],
+      "demo": "https://storagegarderobe.z13.web.core.windows.net/homepage.html",
+      "source": "https://github.com/Mehrshin/Le-Garderobe2"
+    }
+  ]

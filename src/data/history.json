@@ -1,0 +1,35 @@
+[
+  {
+    "role": "Wordpress Developer",
+    "organisation": "Bugloos",
+    "startDate": "Mar, 2017",
+    "endDate": "Mar, 2021",
+    "experiences": [
+      "Was Involved in creating the website architecture",
+      "Generating WordPress themes"
+    ],
+    "imageSrc": "history/bugloos.png"
+  },
+  {
+    "role": "Founder & Creator",
+    "organisation": "Sarashpazbashi",
+    "startDate": "Feb, 2014",
+    "endDate": "Present",
+    "experiences": [
+      "Conceptualized, planned, and executed the website's vision using WordPress",
+      "Regularly updated and maintained website content"
+    ],
+    "imageSrc": "history/sarashpazbashi.png"
+  },
+  {
+    "role": "Software Developer",
+    "organisation": "ITOrbit",
+    "startDate": "Apr, 2008",
+    "endDate": "Apr, 2009",
+    "experiences": [
+      "Was involved in generating reports for the university management system",
+      "Was in charge of supporting, redesigning, and debugging the existing reports"
+    ],
+    "imageSrc": "history/itorbit.png"
+  }
+]
